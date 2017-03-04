@@ -1,6 +1,4 @@
-#######################
 * Author: Kent Kjeldaas
-#######################
 
 # Flight-Controller
 
